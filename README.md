@@ -32,7 +32,7 @@ Este proyecto fue realizado como práctica del ciclo formativo de Desarrollo de 
 
 Acceder a la versión publicada:
 
-**Demo:** *(aquí pondrás el enlace de Vercel)*
+**Demo:** *https://gamerpedia.vercel.app/*
 
 ### Opción 2
 
