@@ -72,7 +72,7 @@ h1, h2, h3 {
     align-items: center;
     justify-content: center;
     position: relative;
-    background-image: url(Fondo\ Tecnológico.jpg);
+    background-image: url(img/fondos/Fondo\ Tecnológico.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -124,7 +124,7 @@ h1, h2, h3 {
 }
 
 .destacado{
-    background-image: url(Fondo\ con\ gradiente.jpg);
+    background-image: url(img/fondos/Fondo\ con\ gradiente.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
@@ -170,7 +170,7 @@ h1, h2, h3 {
 }
 
 .articulo{
-    background-image: url(Fondo\ con\ gradiente.jpg);
+    background-image: url(img/fondos/Fondo\ con\ gradiente.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: repeat;
