@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gamerpedia>
+   <inicio>
+      <loc>https://www.gamerpedia.vercel.app</loc>
+      <lastmod>2026-02-26</lastmod>
+   </inicio>
+
+   <juegos>
+      <loc>https://www.gamerpedia.vercel.app/juegos/</loc>
+      <lastmod>2026-02-26</lastmod>
+   </juegos>
+
+   <indies>
+      <loc>https://www.gamerpedia.vercel.app/juegos/indies</loc>
+      <lastmod>2026-02-26</lastmod>
+   </indies>
+
+    <famosos>
+      <loc>https://www.gamerpedia.vercel.app/juegos/famosos</loc>
+      <lastmod>2026-02-26</lastmod>
+   </famosos>
+
+   <online>
+      <loc>https://www.gamerpedia.vercel.app/juegos/online</loc>
+      <lastmod>2026-02-26</lastmod>
+   </online>
+
+   <contacto>
+      <loc>https://www.gamerpedia.vercel.app/contacto</loc>
+      <lastmod>2026-02-26</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.5</priority>
+   </contacto>
+
+   <consolas>
+      <loc>https://www.gamerpedia.vercel.app/consolas</loc>
+      <lastmod>2026-02-26</lastmod>
+   </consolas>
+
+   <historia>
+      <loc>https://www.gamerpedia.vercel.app/historia</loc>
+      <lastmod>2026-02-26</lastmod>
+   </historia>
+
+   <personajes>
+      <loc>https://www.gamerpedia.vercel.app/personajes</loc>
+      <lastmod>2026-02-26</lastmod>
+   </personajes>
+
+   <generos>
+      <loc>https://www.gamerpedia.vercel.app/generos</loc>
+      <lastmod>2026-02-26</lastmod>
+   </generos>
+
+</gamerpedia>
